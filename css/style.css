@@ -267,7 +267,7 @@ strong {
 }
 
 .navbar-brand {
-  font-size: 32px;
+  font-size: 20px;
   font-weight: var(--font-weight-bold);
   color:black;
 }
@@ -1328,7 +1328,8 @@ padding: 10px 0;
 
 /* Cores Cards */
 .card-1-intern .card-footer-intern {
-  background-color: #2740d1;
+  background-color:#d43ddb;
+          
 }
 
 .card-1-intern .card-local-intern {
